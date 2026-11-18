@@ -1,4 +1,4 @@
-import { AdminPanel, resourceExport } from "@aifivem/lib/server";
+import { AdminPanel, resourceExport } from "@aicore8/lib/server";
 import { readInterior, readProperty, readSettings } from "common/property";
 import { propertiesSchema } from "./schema";
 

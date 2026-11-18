@@ -1,5 +1,5 @@
-import { spec } from "@aifivem/lib/shared";
-import type { FileSpec, TabSpec } from "@aifivem/shared";
+import { spec } from "@aicore8/lib/shared";
+import type { FileSpec, TabSpec } from "@aicore8/shared";
 import { blip } from "./blip";
 
 export const propertiesFile: FileSpec = {

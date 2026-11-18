@@ -3,8 +3,8 @@ import {
   createDatabaseTables,
   onCharacter,
   onStop,
-} from "@aifivem/lib/server";
-import { createLogger } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { createLogger } from "@aicore8/lib/shared";
 import { ResourceName } from "common";
 import { INSIDE_META } from "common/property";
 import { content, core } from "./content";

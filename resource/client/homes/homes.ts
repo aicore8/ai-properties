@@ -1,5 +1,5 @@
-import { callAction, Points } from "@aifivem/lib/client";
-import { isRecord, RecordObjects } from "@aifivem/lib/shared";
+import { callAction, Points } from "@aicore8/lib/client";
+import { isRecord, RecordObjects } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import {
   EVENTS,

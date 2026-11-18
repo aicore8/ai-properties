@@ -1,6 +1,6 @@
-import { GlobalGroup, stateBoolean } from "@aifivem/lib/server";
-import { mysql } from "@aifivem/mysql";
-import { createLogger } from "@aifivem/lib/shared";
+import { GlobalGroup, stateBoolean } from "@aicore8/lib/server";
+import { mysql } from "@aicore8/mysql";
+import { createLogger } from "@aicore8/lib/shared";
 import { ResourceName } from "common";
 import { EVENTS, OWNED_PREFIX, type Access } from "common/property";
 
