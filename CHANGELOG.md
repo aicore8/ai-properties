@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/aicore8/ai-properties/compare/v0.1.5...v0.1.6) (2026-11-18)
+
+
+### Miscellaneous Chores
+
+* rename aifivem to aicore8 (aicore8.com, github.com/aicore8, [@aicore8](https://github.com/aicore8) npm scope) ([27e1d91](https://github.com/aicore8/ai-properties/commit/27e1d91e7bcc86bb1a058cae24cd322b9714b776))
+
 ## [0.1.5](https://github.com/aicore8/ai-properties/compare/v0.1.4...v0.1.5) (2026-11-02)
 
 
